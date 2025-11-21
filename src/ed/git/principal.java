@@ -117,6 +117,8 @@ public class principal {
 		}
 
 		private static void AlumneFila1PC6() {
+			System.out.println("Hola soc Andrés Castañer,feliç any nou, el meu desig es salud per a tota la familia, i que no tinga complicacións a l'hora d'estudiar per a propers examens.");
+			System.out.println();
 
 		}
 
