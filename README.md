@@ -53,8 +53,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila1 PC6:
-He apres a com crear un repositori remot i clonar-ho a github, a mes a mes he apres a fer forks, i he millorat amb els commands de git.
-
+He clonado este repositorio, creado una rama con mi nombre,editar el fichero del proyecto .java para que desee un feliz año nuevo 2026, mi nombre, y mi deseo de año nuevo, he subido los archivos, a github y por ultimo he modificado este README
 #### AlumneFila2 PC1:
 
 
