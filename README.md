@@ -53,7 +53,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila1 PC6:
-
+He apres a com crear un repositori remot i clonar-ho a github, a mes a mes he apres a fer forks, i he millorat amb els commands de git.
 
 #### AlumneFila2 PC1:
 
