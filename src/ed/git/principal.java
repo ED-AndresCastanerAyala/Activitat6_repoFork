@@ -22,7 +22,8 @@ public class principal {
 			AlumneFila1PC5();
 
 			AlumneFila1PC6();
-
+			System.out.println("Hola, soc Andrés Castanyer, feli any nou,el meu desig es salut per a tota la familia, i no tindre molts problemes a futur");
+			System.out.println();
 			// Fila2
 			AlumneFila2PC1();
 
@@ -117,6 +118,8 @@ public class principal {
 		}
 
 		private static void AlumneFila1PC6() {
+			System.out.println("Hola soc Andrés Castañer,feliç any nou, el meu desig es salud per a tota la familia, i que no tinga complicacións a l'hora d'estudiar per a propers examens.");
+			System.out.println();
 
 		}
 
